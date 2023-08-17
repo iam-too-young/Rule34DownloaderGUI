@@ -1,4 +1,4 @@
-﻿using System.Net;
+using System.Net;
 using HtmlAgilityPack;
 
 namespace Rule34XXXGUI
@@ -21,7 +21,7 @@ namespace Rule34XXXGUI
                     }
                     catch
                     {
-                        // 这里切片可能会出现越界错误，try-catch就好了，当然如果有时间可以简单改一下算法
+                        // do sth.
                     }
 
                 }
